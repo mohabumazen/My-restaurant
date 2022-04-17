@@ -1,6 +1,6 @@
 # My-restaurant
 
-## Alberto's Restaurant
+## Alberto's Restaurant wireframe
 
 &nbsp;
 
